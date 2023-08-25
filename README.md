@@ -159,3 +159,5 @@ go run main.go
 
 This project is licensed under the [MIT License](LICENSE).
 ```
+
+This template places the customer data indexing section at the beginning, as requested, while also providing clear instructions for both indexing customer data and using the Elasticsearch query builder. Remember to replace placeholders such as `"http://localhost:9200"`, `"your/querybuilder/package/import/path"`, `"your_index_name"`, `"customer_index"`, and the sample `customerData` with your actual Elasticsearch server address, query builder package import path, index names, and customer data.
